@@ -4,7 +4,7 @@ A super simple HTML page that turns the entire screen black.
 
 https://noxelwork.com/blackscreen
 
-![screenshot](img/screenshot.png)
+![demo](img/promo.gif)
 
 ## Usage
 
